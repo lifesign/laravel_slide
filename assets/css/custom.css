@@ -1,0 +1,68 @@
+.reveal ul li {
+	font-size: 1.2em;
+}
+
+.reveal p > code, .reveal ul li > code {
+	background: #eee;
+	color: #f4645f;
+	padding: 0 5px;
+	border-radius: 3px;
+}
+
+.self-introduce-wrapper {
+
+}
+.self-introduce-image-wrapper {
+	width: 25%;
+	overflow: hidden;
+	border-radius: 50%;
+	padding: 40px!important;
+	float: left;
+}
+
+.self-introduce-content-wrapper {
+	width: 600px;
+	padding-top: 50px!important;
+	margin-left: 260px!important;
+	text-align: left;
+}
+
+.self-introduce-iam {
+	font-size: 3em!important;
+	margin-top: 50px!important;
+	margin-left: 200px!important;
+}
+
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+/* line 109, ../sass/vendor/reveal/theme/template/_theme.scss */
+.reveal .controls div.navigate-left.enabled {
+  border-right-color: rgba(82, 199, 190, 0.6);
+}
+
+/* line 114, ../sass/vendor/reveal/theme/template/_theme.scss */
+.reveal .controls div.navigate-right.enabled {
+  border-left-color: rgba(82, 199, 190, 0.6);
+}
+
+/* line 119, ../sass/vendor/reveal/theme/template/_theme.scss */
+.reveal .controls div.navigate-up.enabled {
+  border-bottom-color: rgba(82, 199, 190, 0.6);
+}
+
+/* line 124, ../sass/vendor/reveal/theme/template/_theme.scss */
+.reveal .controls div.navigate-down.enabled {
+  border-top-color: rgba(82, 199, 190, 0.6);
+}
+
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #F78787;
+}

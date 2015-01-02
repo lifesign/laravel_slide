@@ -1,8 +1,7 @@
 #laravel-slide
 
-在四脚猫的一次分享《laravel与框架二三事》
+在四脚猫的一次分享《laravel与框架二三事》 [在线地址](http://lifesign.github.io/laravel_slide/)
 
-##
 ## How to Run
 
 由于使用了[reveal.js](https://github.com/hakimel/reveal.js)中的 External Markdown 所以需要在本地开启 web server , 可参考以下两种方式。
